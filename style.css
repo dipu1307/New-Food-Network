@@ -3,4 +3,16 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 /* First Section style part */
+.flexible-container1{
+    display: flex;
+    margin-top: 50px;
+}
+.first-header{
+    width: 100%;
+    margin-left: 38%;
+}
+.first-header h1{
+    font-size: 50px;
+    color:lightcoral;
+}
 /* First Section Style part end */
