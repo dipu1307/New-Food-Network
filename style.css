@@ -99,13 +99,32 @@ body{
     width: 50%;
     margin-left: 5%;
     margin-top: 100px;
+    padding-right: 6%;
     
 }
+
 .half-width4 img{
     width: 80%;
    
 }
 .half-width4 h2{
     font-size: 50px;
+    font-weight: 800;
+    color: gray;
+}
+.half-width4 p{
+    text-align: justify;
+    font-size: larger;
+
+}
+.half-width4 a{
+    text-decoration: none;
+    font-size: xx-large;
+    font-weight: 700;
+    background-image: linear-gradient(darkorange, tomato);
+    padding: 20px 40px;
+    border-radius: 40px;
+    display: inline-block;
+    margin-top: 50px;
 }
 /* Fourth section style part end */
