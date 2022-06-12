@@ -87,17 +87,14 @@ body{
     display: flex;
     margin-top: 100px;
 }
-/* .about-part{
+ .about-part{
     background-image: url(./images/shapes/7.png);
     background-repeat: no-repeat;
     background-size: contain;
-    
-    
-    
-} */
+    width: 100%;  
+} 
 .half-width4{
     width: 50%;
-    margin-left: 5%;
     margin-top: 100px;
     
     
