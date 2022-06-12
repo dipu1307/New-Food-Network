@@ -82,4 +82,30 @@ body{
 /* thrid section style part end */
 
 /* Fourth section style part start */
+
+.flexible-container4{
+    display: flex;
+    margin-top: 100px;
+}
+/* .about-part{
+    background-image: url(./images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    
+    
+} */
+.half-width4{
+    width: 50%;
+    margin-left: 5%;
+    margin-top: 100px;
+    
+}
+.half-width4 img{
+    width: 80%;
+   
+}
+.half-width4 h2{
+    font-size: 50px;
+}
 /* Fourth section style part end */
