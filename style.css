@@ -131,3 +131,17 @@ body{
     margin-top: 50px;
 }
 /* Fourth section style part end */
+
+/* Fifth section style part start */
+.container5{
+    margin-top: 100px;
+
+}
+.header5{
+    font-size: 60px;
+    text-align: center;
+    color: gray;
+}
+
+/* Fifth section style part end */
+    
