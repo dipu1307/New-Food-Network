@@ -165,9 +165,11 @@ body{
 .half-width5 img{
     width: 90%;
     
+    
 }
 .recipe5-pic{
     height: 40%;
+    border-radius: 10px;
 }
 
 
