@@ -152,5 +152,24 @@ body{
     text-align: center;
 }
 
+.flexible-container5{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 3%;
+    margin-right: 2%;
+}
+.half-width5{
+    width: 30%;
+    padding: 40px;
+}
+.half-width5 img{
+    width: 90%;
+    
+}
+.recipe5-pic{
+    height: 40%;
+}
+
+
 /* Fifth section style part end */
     
