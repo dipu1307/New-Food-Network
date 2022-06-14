@@ -163,7 +163,7 @@ body{
     width: 32%;
     margin: 2%;
     padding: 50px;
-    box-shadow: 15px 20px 20px 5px gainsboro;
+    box-shadow: 15px 20px 10px 5px gainsboro;
     border-radius: 10px;
 }
 .half-width5 img{
