@@ -163,12 +163,21 @@ body{
     width: 32%;
     margin: 2%;
     padding: 50px;
-    box-shadow: 15px 20px 10px 5px gainsboro;
-    border-radius: 10px;
+    box-shadow: 10px 10px 5px 5px gainsboro;
+    border-radius: 20px;
+    
 }
 .half-width5 img{
     width: 100%;
     
+}
+.soup-pic{
+    width: 400px;
+    height: 400px;
+}
+.salad-pic{
+    width: 400px;
+    height: 400px;
 }
 .meatloaf-pic {
     width: 400px;
