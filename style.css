@@ -186,7 +186,10 @@ body{
 }
 
 .box5{
-    box-shadow: 10px 12px 5px 6px red;
+    border: none;
+    width:  80%;
+    margin: 0 auto;
+    box-shadow: 10px 12px 5px 6px wheat;
 }
 
 .second-flexible-container5{
@@ -203,9 +206,13 @@ body{
     text-align: center;
     font-size: 60px;
     font-weight: bolder;
+    margin-bottom: 0;
+    margin-top: 0;
+    
 }
 .second-half-width5 p{
     text-align: center;
+    
 }
 
 /* Fifth section style part end */
