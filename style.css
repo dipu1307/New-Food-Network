@@ -216,4 +216,25 @@ body{
 }
 
 /* Fifth section style part end */
-    
+
+/* Sixth section style part start */
+.container6{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    margin-top: 6%;
+}
+.container6 h3{
+    text-align: center;
+    color: grey;
+    font-size: xx-large;
+    padding-top: 5%;
+}
+.container6 span{
+    color: orange;
+}
+.container6 p{
+    color: white;
+    text-align: center;
+}
+/* Sixth section style part end */
